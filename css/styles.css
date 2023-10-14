@@ -1,0 +1,92 @@
+/*marvellous elei 8903172*/ 
+body{
+    font : normal normal normal 12px/1.5 Arial, Helvetica, sans-serif;
+    background-color: hsla(201, 93%, 49%, 0.753);
+    width : 100%;
+    max-width: 1400px;
+   /* height : 80vh;*/
+    margin: auto;
+    /*padding: 35px 30px 80px 35px;*/
+    
+    
+} 
+
+h1{
+    color : goldenrod;
+    font-size: 2em;
+}
+
+h2{
+    color : red;
+    font-size: 2em;
+}   
+
+figcaption{
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+header{
+   font-size: large;
+   text-align: center;
+   border-radius: 35px 35px;
+   margin: 10px;
+}
+
+main{
+    float: left;
+    width: 60vw;
+    /*height: 60vh;*/
+    
+}
+
+aside{
+    float: right;
+   /* max-width: fit-content;
+    max-height: fit-content;*/
+    width: 25vw;
+   /* height: 60vh;*/
+   /* margin: 10px;*/
+    
+}
+
+.maining{
+    border: 2px solid rgb(9, 4, 9);
+}
+
+q{
+    font-family: cursive;
+    font-style: italic;
+}
+
+.structural{
+    border: 3px solid red;
+    margin: 10px;
+    padding: 10px;
+}
+
+ul li{
+    list-style-type: none;
+    line-height: 1.5em;
+} 
+
+ul a{
+    text-decoration: none;
+}
+
+a:hover{
+    color:aliceblue;
+}
+
+footer{
+    clear: both;
+    border-radius: 35px 35px;
+    padding: 35px 30px 80px 35px;
+    margin: 10px;
+    
+} 
+
+footer p{
+    font-size: 1em;
+    color: blanchedalmond;
+}
